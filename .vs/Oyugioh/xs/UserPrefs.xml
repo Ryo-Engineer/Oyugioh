@@ -1,15 +1,22 @@
 ﻿<Properties StartupConfiguration="{F9597434-00E0-5F33-CB9A-63BA0C94945D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AttackedHero.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CardMovement.cs">
     <Files>
-      <File FileName="Assets/Scripts/GameManager.cs" Line="209" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="16" Column="12" />
       <File FileName="Assets/Scripts/CardController.cs" Line="17" Column="47" />
       <File FileName="Assets/Scripts/CardModel.cs" Line="16" Column="29" />
       <File FileName="Assets/Scripts/CardView.cs" />
-      <File FileName="Assets/Scripts/CardMovement.cs" />
+      <File FileName="Assets/Scripts/CardMovement.cs" Line="19" Column="10" />
       <File FileName="Assets/Scripts/DropPlace.cs" />
-      <File FileName="Assets/Scripts/AttackedHero.cs" Line="9" Column="20" />
-      <File FileName="Assets/Scripts/AttackedCard.cs" Line="9" Column="35" />
+      <File FileName="Assets/Scripts/AttackedHero.cs" Line="19" Column="63" />
+      <File FileName="Assets/Scripts/AttackedCard.cs" Line="21" Column="10" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Oyugioh" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -282,7 +282,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1087186411}
-        m_MethodName: ChangeTurn
+        m_MethodName: OnClickTurnEndButton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1339,6 +1339,7 @@ MonoBehaviour:
   enemyFieldTransform: {fileID: 561210104}
   cardPrefab: {fileID: 2787303459191243446, guid: a3f467cc48c824b0a8564b9ea0083fcf,
     type: 3}
+  isPlayerTurn: 0
   playerHeroHpText: {fileID: 725027237}
   enemyHeroHpText: {fileID: 103208725}
   playerHero: {fileID: 1891562436}
